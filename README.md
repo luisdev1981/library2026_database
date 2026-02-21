@@ -236,7 +236,7 @@ powershell
 Get-Content .env
 Deberías ver:
 
-text
+
 MONGODB_URI=mongodb+srv://inventario:inventario123@inventario.rffvlws.mongodb.net/biblioteca
 PORT=3000
 PASO 4: Instalar dependencias (solo la primera vez)
@@ -251,7 +251,7 @@ npm start
 PASO 7: Verificar que el backend está corriendo
 Deberías ver en la terminal:
 
-text
+
 🚀 Servidor corriendo en http://localhost:3000
 ✅ Conexión exitosa a MongoDB
 📁 Base de datos: biblioteca
@@ -300,7 +300,7 @@ powershell
 notepad .env
 Cambia a:
 
-text
+
 PORT=3001
 Luego:
 
